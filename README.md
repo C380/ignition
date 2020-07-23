@@ -1,2 +1,3 @@
-# ignition
-The curated repository of usefull App Projects starter templates
+# 💥 @C380/ignition
+
+>**Welcome** to curated repository of useful project's code starters.
